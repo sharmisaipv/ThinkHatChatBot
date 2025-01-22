@@ -1,6 +1,0 @@
-streamlit
-sentence-transformers
-transformers
-faiss-cpu
-pickle-mixin
-torch
